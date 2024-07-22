@@ -18,6 +18,7 @@
 * Advanced Searching.
 * Advanced Filtering.
 * Above Advanced Features can be combined together and its results reflected on pagination.
+> Advanced features allow Frontend Developer to take more control over DB.
 * Authentication.
 * Authorization.
 
